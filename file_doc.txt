@@ -6,3 +6,10 @@ Instalar Pacotes: pip3 install mysql-connector-python
                   pip3 install pandas matplotlib 
                   pip3 install sqlalchemy 
 Desativar o Ambiente Virtual: deactivate
+
+
+//para tkinter no terminal
+export TK_SILENCE_DEPRECATION=1
+
+rm -rf venv
+
