@@ -1,0 +1,8 @@
+toda vez que entrar
+
+Criar o Ambiente Virtual: python3 -m venv venv
+Ativar o Ambiente Virtual: source venv/bin/activate
+Instalar Pacotes: pip3 install mysql-connector-python
+                  pip3 install pandas matplotlib 
+                  pip3 install sqlalchemy 
+Desativar o Ambiente Virtual: deactivate
